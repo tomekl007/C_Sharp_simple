@@ -1,0 +1,7 @@
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Asynchrony\Asynchrony\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Asynchrony\Asynchrony\bin\Debug\Asynchrony.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Asynchrony\Asynchrony\bin\Debug\Asynchrony.pdb
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Asynchrony\Asynchrony\obj\x86\Debug\Asynchrony.exe
+C:\Users\Tomek\Documents\Visual Studio 2010\Projects\PRACOWNIA PROGRAMOWNIE 2\Asynchrony\Asynchrony\obj\x86\Debug\Asynchrony.pdb
+F:\C sharp\c sharp nutshell 5\visualProjects\Asynchrony\Asynchrony\obj\x86\Debug\Asynchrony.exe
+F:\C sharp\c sharp nutshell 5\visualProjects\Asynchrony\Asynchrony\obj\x86\Debug\Asynchrony.pdb
